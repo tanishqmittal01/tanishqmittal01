@@ -14,18 +14,14 @@
 
 <br/>
 
-<!-- SOCIAL MEDIA LINKS: REPLACE THE PLACEHOLDERS -->
+<!-- SOCIAL MEDIA LINKS -->
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/tanishq-mittal-87b059392" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.instagram.com/_tanishq_mittal_0495_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <br/><br/>
@@ -36,12 +32,6 @@
 
 ---
 
-<!-- ========================================= -->
-
-<!--                 ABOUT ME                  -->
-
-<!-- ========================================= -->
-
 ## 🧑‍💻 About Me
 
 Hello! I'm **Tanishq Mittal**, a third-year B.Tech student passionate about programming, Artificial Intelligence, Machine Learning, and software development.
@@ -51,7 +41,7 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 * 🎓 Currently pursuing B.Tech — Third Year.
 * 🤖 Exploring Artificial Intelligence and Machine Learning.
 * 💻 Programming in C, Python, Java, and JavaScript.
-* 🌐 Developing responsive web applications using HTML and CSS.
+* 🌐 Developing web applications using HTML and CSS.
 * 📈 Building an AI-Based Stock Market Trend Prediction System.
 * 🗳️ Developing an Online Voting System using Java and Spring Boot.
 * 🌱 Always learning, experimenting, and building.
@@ -60,12 +50,6 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 > 💡 *Learn continuously. Build consistently. Make an impact through code.*
 
 ---
-
-<!-- ========================================= -->
-
-<!--              TECHNICAL SKILLS             -->
-
-<!-- ========================================= -->
 
 ## 💻 Languages & Technologies
 
@@ -117,12 +101,6 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ---
 
-<!-- ========================================= -->
-
-<!--               FEATURED PROJECTS            -->
-
-<!-- ========================================= -->
-
 ## 🚀 Featured Projects
 
 ### 📈 1. AI-Based Stock Market Trend Prediction System
@@ -144,7 +122,7 @@ An AI/ML-based application designed to analyze historical stock market data, vis
 
 **🎯 Project Objective:** Explore how historical market data, technical indicators, and machine learning can help analyze stock market trends.
 
-🔗 **Repository:** [Add your stock market project repository link here](YOUR_STOCK_PROJECT_URL)
+🔗 **Repository:** [View Stock Market Project](YOUR_STOCK_PROJECT_URL)
 
 ---
 
@@ -160,91 +138,4 @@ A web-based application designed to manage elections, register users, organize c
 * 🔐 Password hashing using BCrypt.
 * ✅ Duplicate-vote prevention.
 * 📊 Election result calculation.
-* 🗄️ Database integration.
-
-**🛠️ Tech Stack**
-
-`Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
-
-**🎯 Project Objective:** Build a structured voting application that demonstrates backend development, database management, user authentication, and election administration.
-
-🔗 **Repository:** [Add your online voting project repository link here](YOUR_VOTING_PROJECT_URL)
-
----
-
-<!-- ========================================= -->
-
-<!--              GITHUB ANALYTICS             -->
-
-<!-- ========================================= -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
-<!-- ========================================= -->
-
-<!--                MY GOALS                   -->
-
-<!-- ========================================= -->
-
-## 🎯 My Goals
-
-* 🧠 Strengthen my knowledge of AI and Machine Learning.
-* 💻 Improve data structures, algorithms, and problem-solving skills.
-* 🚀 Build more practical software and AI/ML projects.
-* 🌐 Explore full-stack development and intelligent applications.
-* 🤝 Collaborate with developers and contribute to open-source projects.
-* 💼 Prepare for software development and AI/ML internship opportunities.
-
----
-
-<!-- ========================================= -->
-
-<!--               CONNECT WITH ME             -->
-
-<!-- ========================================= -->
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always open to learning, collaborating, and connecting with fellow developers and technology enthusiasts.
-
-<br/>
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="YOUR_INSTAGRAM_URL" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br/><br/>
-
-### 💙 Thanks for visiting my profile!
-
-**⭐ Keep Learning | Keep Building | Keep Growing ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" alt="Footer Banner" />
-
-</div>
+* 🗄️ Database integratio
